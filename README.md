@@ -23,4 +23,10 @@ The purpose of this analysis is to analyze weather data from the island of Oahu 
 
 ![June_precip](https://user-images.githubusercontent.com/107599510/188226918-c5a6277a-20a6-48ec-8269-cbf715dbbfd4.png) ![Dec_precip](https://user-images.githubusercontent.com/107599510/188226926-cc384d8d-5319-4fd2-a9ee-714ddbf87f0e.png)
 
-* The temperature for the island is one factor of the weather to consider when determining the impact the weather may have on a new surfing and ice cream business.  Another factor would be precipitation.  
+* The temperature for the island is one factor of the weather to consider when determining the impact the weather may have on a new surfing and ice cream business.  Another factor would be precipitation.  Based on the data from June and December, June has received less rainfall on average during the time periods reviewed.  
+
+### The following chart shows precipitaion information recorded by all weather stations over a period of time from 1/1/2010 to 8/23/2017.
+
+![precip_data](https://user-images.githubusercontent.com/107599510/188239982-10150b1a-82eb-471b-88e0-f0383aefbf7c.png)  ![precip_stats](https://user-images.githubusercontent.com/107599510/188240133-7e9fc6ea-7222-4458-aaa4-9f442443a9b2.png)
+
+
