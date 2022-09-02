@@ -29,4 +29,8 @@ The purpose of this analysis is to analyze weather data from the island of Oahu 
 
 ![precip_data](https://user-images.githubusercontent.com/107599510/188239982-10150b1a-82eb-471b-88e0-f0383aefbf7c.png)  ![precip_stats](https://user-images.githubusercontent.com/107599510/188240133-7e9fc6ea-7222-4458-aaa4-9f442443a9b2.png)
 
+* The precipitaion data over this period of time is encouraging.  An average of 0.16" of rain during the period reviewed tells me that precipitaion is not a major threat to the success of the business.  The maximum amount of rain received was 11.53" and would be a threat to slow business down during times of rain that heavy.  The weather graph shows 10 instances over a 7 3/4ths year period of having over 6" of rain reported.  
 
+* To combat the threat of rain, the surf shop could provide a covered area for tourists and locals to enjoy ice cream during periods of rain.  They could also create some type of attraction such as an area for tourists to take pictures with silly backgrounds or an area that says, "I made it to Oahu only to take this picture on a rainy day".  Find a way to turn rainy days into an opportunity instead of a threat to the business.  
+
+*  Using this data, the surf shop could also build up a rainy day cash reserve to handle rainy days when revenues may be slower.  This would help reduce the threat of a few rainy days derailing the business and allow the surf and ice cream shop to thrive.
