@@ -10,11 +10,13 @@ The purpose of this analysis is to analyze weather data from the island of Oahu 
 
 ![June_temp](https://user-images.githubusercontent.com/107599510/188226885-3dd90d2d-75a0-46ff-8185-510ce677be8a.png)
 
-* For the month of June, the data stations provided 1,700 weather related data points.  The mean temperature recorded for the 8 years worth of June weather data is 74.9 degrees.  The minimum temperature is 64 degrees and the maximum temperature is 85 degrees.  25% of the time, the weather is 73 or below while it is also 77 or higher 75% of the time. 
+* For the month of June, the data stations provided 1,700 weather related data points.  The mean temperature recorded for the 8 years worth of June weather data is 74.9 degrees.  The minimum temperature recorded was 64 degrees and the maximum temperature recorded was 85 degrees.  25% of the time, the weather was 73 or below while it was also 77 or higher 75% of the time. 
 
 ![Dec_temp](https://user-images.githubusercontent.com/107599510/188226910-2f63cad8-31c6-4172-bca2-b977b02acc3c.png)
 
-* For the month of June, the data stations provided 1,700 weather related data points.  The mean temperature recorded for the 8 years worth of June weather data is 74.9 degrees.  The minimum temperature is 64 degrees and the maximum temperature is 85 degrees.  25% of the time, the weather is 73 or below while it is also 77 or higher 75% of the time. 
+* For the month of December, the data stations provided 1,517 weather related data points.  The mean temperature recorded for the 7 years worth of December weather data is 71 degrees.  The minimum temperature recorded was 56 degrees and the maximum temperature recorded was 8 degrees.  25% of the time, the weather was 69 or below while it was also 74 or higher 75% of the time. 
+
+* Based on the data, the temperature stays pretty consistent from June to December with only 3-4 degree differences between the mean, max, upper and lower quartiles.  The minimum amount recorded in December is 8 degrees cooler than the minimum temperature recorded in June.  Overall, the temperature seems to be steady and consistent and should not affect the surfing business based on a historical temperature perspective.
 
 ## Summary: 
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
