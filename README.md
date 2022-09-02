@@ -6,9 +6,9 @@ While on vacation in Hawaii, I discovered a passion for surfing.  Since that vac
 The purpose of this analysis is to analyze weather data from the island of Oahu to see if weather would be a concern that could affect the success of this business venture.  W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Results: 
-### The data provided for this analysis comes from 9 weather stations and provide data that has been recorded from 1/1/2010 to 8/23/2017.
+### The data provided for this analysis comes from 9 weather stations that reported temperature data for Oahu island.  The provided data was recorded from 1/1/2010 to 8/23/2017.
 
-![June_temp](https://user-images.githubusercontent.com/107599510/188226885-3dd90d2d-75a0-46ff-8185-510ce677be8a.png)
+![June_temp](https://user-images.githubusercontent.com/107599510/188226885-3dd90d2d-75a0-46ff-8185-510ce677be8a.png) 
 
 * For the month of June, the data stations provided 1,700 weather related data points.  The mean temperature recorded for the 8 years worth of June weather data is 74.9 degrees.  The minimum temperature recorded was 64 degrees and the maximum temperature recorded was 85 degrees.  25% of the time, the weather was 73 or below while it was also 77 or higher 75% of the time. 
 
@@ -16,12 +16,11 @@ The purpose of this analysis is to analyze weather data from the island of Oahu 
 
 * For the month of December, the data stations provided 1,517 weather related data points.  The mean temperature recorded for the 7 years worth of December weather data is 71 degrees.  The minimum temperature recorded was 56 degrees and the maximum temperature recorded was 8 degrees.  25% of the time, the weather was 69 or below while it was also 74 or higher 75% of the time. 
 
-* Based on the data, the temperature stays pretty consistent from June to December with only 3-4 degree differences between the mean, max, upper and lower quartiles.  The minimum amount recorded in December is 8 degrees cooler than the minimum temperature recorded in June.  Overall, the temperature seems to be steady and consistent and should not affect the surfing business based on a historical temperature perspective.
+* Based on the data, the temperature stays pretty consistent from June to December with only 3-4 degree differences between the mean, max, upper and lower quartiles.  The minimum amount recorded in December is 8 degrees cooler than the minimum temperature recorded in June.  Overall, the temperature appears to be steady and consistent and should not affect the surfing business based on a historical temperature perspective.
 
 ## Summary: 
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+### The data below is provided from 9 weather stations about precipitation amounts for Oahu island.  The data was recorded over a period of time from 1/1/2010 to 8/23/2017.
 
-![June_precip](https://user-images.githubusercontent.com/107599510/188226918-c5a6277a-20a6-48ec-8269-cbf715dbbfd4.png)
+![June_precip](https://user-images.githubusercontent.com/107599510/188226918-c5a6277a-20a6-48ec-8269-cbf715dbbfd4.png) ![Dec_precip](https://user-images.githubusercontent.com/107599510/188226926-cc384d8d-5319-4fd2-a9ee-714ddbf87f0e.png)
 
-
-![Dec_precip](https://user-images.githubusercontent.com/107599510/188226926-cc384d8d-5319-4fd2-a9ee-714ddbf87f0e.png)
+* The temperature for the island is one factor of the weather to consider when determining the impact the weather may have on a new surfing and ice cream business.  Another factor would be precipitation.  
